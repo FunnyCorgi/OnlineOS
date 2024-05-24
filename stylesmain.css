@@ -11,7 +11,7 @@ body {
   }
   
   footer {
-    align-self: baseline;
+    align-content: baseline;
     min-height: 50px;
     background: PapayaWhip;
   }
